@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Wetter">
+  <rect width="512" height="512" rx="112" fill="#181e2b"/>
+  <g transform="translate(96 96) scale(10)">
+    <path fill="#f3d88d" d="M12 8h8v3h3v3h2v6h-3v3h-3v2h-7v-3H9v-3H7v-6h3v-3h2z"/>
+    <path fill="#fff0ad" d="M13 11h6v3h-6zm-3 3h3v6h-3z"/>
+    <path fill="#e3bb67" d="M14 1h4v4h-4zm0 27h4v4h-4zM0 14h4v4H0zm28 0h4v4h-4zM4 4h4v4H4zm20 0h4v4h-4zM4 24h4v4H4zm20 0h4v4h-4z"/>
+  </g>
+</svg>

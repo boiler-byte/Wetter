@@ -1,0 +1,29 @@
+{
+  "id": "./",
+  "name": "Wetter",
+  "short_name": "Wetter",
+  "description": "Dein Wetter, überall. Eine dunkle Wetter-App mit animierter Pixel-Landschaft, Ortssuche und 10-Tage-Prognose.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#10131d",
+  "theme_color": "#10131d",
+  "lang": "de",
+  "dir": "ltr",
+  "categories": ["weather", "utilities"],
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
